@@ -1,24 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MyLearnia Platform
+
+**Speak & Study Smart, Not Hard!**
+
+Master languages and ace school subjects with expert mentors in real-time, 1-on-1 tailored sessions.
+
+## About
+
+MyLearnia is a comprehensive learning platform that connects students with expert mentors for personalized education in languages and academic subjects. Built with Next.js, TypeScript, and Tailwind CSS.
+
+## Features
+
+- **Real-time 1-on-1 Sessions**: Connect with expert mentors instantly
+- **Language Learning**: Master new languages with native speakers
+- **Academic Support**: Get help with school subjects from qualified teachers
+- **User Authentication**: Secure login and registration system
+- **Profile Management**: Complete user profile and settings
+- **Responsive Design**: Works seamlessly on all devices
+- **Dark/Light Mode**: Toggle between themes for comfortable learning
+
+## Tech Stack
+
+- **Framework**: Next.js 15 with App Router
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Forms**: Formik with Yup validation
+- **HTTP Client**: Axios
+- **Icons**: React Icons, Lucide React, Heroicons
+- **UI Components**: Headless UI
+- **Notifications**: React Hot Toast
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
+- Node.js 18+ 
+- npm, yarn, pnpm, or bun
+
+### Installation
+
+1. Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone <repository-url>
+cd mylearnia-platform
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Run the development server:
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Project Structure
+
+```
+src/
+├── app/                    # Next.js App Router pages
+│   ├── auth/              # Authentication pages
+│   ├── profile/           # User profile pages
+│   ├── about/             # About pages
+│   ├── support/           # Support pages
+│   ├── home/              # Home page components
+│   └── ...
+├── components/            # Reusable components
+├── contexts/              # React contexts
+├── hooks/                 # Custom hooks
+├── layouts/               # Layout components
+├── utils/                 # Utility functions
+└── interceptors/          # API interceptors
+```
+
+## Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run start` - Start production server
+- `npm run lint` - Run ESLint
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License.
 
 ## Learn More
 

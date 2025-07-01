@@ -1,0 +1,354 @@
+{
+  "navigation": {
+    "home": "Home",
+    "findMentor": "Find a Mentor",
+    "becomeMentor": "Become a Mentor",
+    "plans": "Plans & Pricing",
+    "about": "About",
+    "support": "Support",
+    "login": "Login",
+    "register": "Register",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "hero": {
+    "title": "Speak & Study",
+    "titleHighlight": "Smart",
+    "titleEnd": ", Not Hard!",
+    "subtitle": "Master languages and ace school subjects with expert mentors in real-time, 1-on-1 tailored sessions.",
+    "getStarted": "Get Started",
+    "register": "Register"
+  },
+  "services": {
+    "title": "From Languages to School Subjects, We've Got You Covered",
+    "subtitle": "Comprehensive learning solutions for every need",
+    "languages": {
+      "title": "Languages",
+      "description": "Master new languages with native speakers and certified teachers"
+    },
+    "subjects": {
+      "title": "Subjects",
+      "description": "Excel in math, science, literature, and more with expert tutors"
+    },
+    "testPrep": {
+      "title": "Test Preparation",
+      "description": "Ace your exams with targeted preparation and practice"
+    }
+  },
+  "benefits": {
+    "title": "Benefits of Online Tutoring",
+    "subtitle": "Experience the advantages of personalized online learning with our expert tutors.",
+    "expertMentors": {
+      "title": "Expert Mentors",
+      "description": "Learn from certified professionals with years of experience"
+    },
+    "personalizedLearning": {
+      "title": "Personalized Learning",
+      "description": "One-on-one sessions tailored to your specific needs and learning style."
+    },
+    "flexibleSchedule": {
+      "title": "Flexible Scheduling",
+      "description": "Book sessions at your convenience, 24/7 availability to fit your schedule."
+    },
+    "affordablePricing": {
+      "title": "Affordable Pricing",
+      "description": "Competitive rates with various plans to suit different budgets and needs."
+    },
+    "progressTracking": {
+      "title": "Progress Tracking",
+      "description": "Monitor your learning progress with detailed feedback and assessments."
+    },
+    "safeEnvironment": {
+      "title": "Safe Environment",
+      "description": "Secure platform with verified tutors and protected payment system."
+    },
+    "readyToStart": {
+      "title": "Ready to Start Learning?",
+      "description": "Join thousands of students who have already improved their skills with our expert tutors."
+    }
+  },
+  "teachers": {
+    "title": "Teach, Impact, and Get Paid for Your Knowledge.",
+    "subtitle": "Your guidance can change lives, start making an impact today.",
+    "viewAll": "View All Teachers",
+    "bookSession": "Book Session",
+    "features": {
+      "oneToOne": "One-to-one live video lessons",
+      "flexible": "Flexible scheduling",
+      "support": "Dedicated Support Team",
+      "payment": "Transparent Payment System",
+      "more": "And More ..."
+    },
+    "joinNow": "Join Now",
+    "learnHow": "Learn How It Works!"
+  },
+  "steps": {
+    "title": "Step-by-Step to Your Goals",
+    "subtitle": "Get started in just a few simple steps",
+    "step1": "Register",
+    "step2": "Choose a Plan",
+    "step3": "Book a Session",
+    "step4": "Start Learning"
+  },
+  "plans": {
+    "title": "Affordable Plans for Every student",
+    "subtitle": "Choose the plan that fits your learning needs.",
+    "annually": "Annually",
+    "monthly": "Monthly",
+    "mostPopular": "Most popular",
+    "starter": {
+      "title": "Starter",
+      "price": "$29",
+      "period": "/month",
+      "features": [
+        "5 sessions per month",
+        "Basic subjects",
+        "Email support"
+      ]
+    },
+    "premium": {
+      "title": "Premium",
+      "price": "$59",
+      "period": "/month",
+      "features": [
+        "15 sessions per month",
+        "All subjects",
+        "Priority support",
+        "Study materials"
+      ]
+    },
+    "pro": {
+      "title": "Pro",
+      "price": "$99",
+      "period": "/month",
+      "features": [
+        "Unlimited sessions",
+        "All subjects",
+        "24/7 support",
+        "Study materials",
+        "Progress tracking"
+      ]
+    },
+    "getStarted": "Get Started",
+    "starter": {
+      "title": "Starter",
+      "cta": "Get Started Now !!"
+    },
+    "professional": {
+      "title": "Professional",
+      "cta": "Step Up Now !!"
+    },
+    "premium": {
+      "title": "Premium",
+      "cta": "Experience the Best"
+    },
+    "features": {
+      "oneOnOne": "1-on-1 Live Sessions",
+      "tenSessions": "Up to 10 Sessions/month",
+      "thirtyMin": "Limited Session duration (30min)",
+      "prioritySupport": "Priority Support",
+      "customPath": "Custom learning path",
+      "thirtySessions": "Up to 30 Sessions/month",
+      "sixtyMin": "Limited Session duration (60min)",
+      "allInPro": "All in Pro plan",
+      "unlimitedSessions": "Unlimited Sessions",
+      "unlimitedDuration": "Unlimited Session duration",
+      "recordings": "Session Recordings"
+    }
+  },
+  "beneficiaries": {
+    "title": "Who Can Benefit from MyLearnia?",
+    "subtitle": "Our platform serves learners of all ages and backgrounds",
+    "speaking": {
+      "title": "In Speaking",
+      "teenagers": {
+        "title": "Teenagers",
+        "description": "Speak fluently and confidently in your language of choice."
+      },
+      "professionals": {
+        "title": "Professionals",
+        "description": "Learn new language skills to enhance career opportunities."
+      },
+      "travelers": {
+        "title": "Travel Enthusiasts",
+        "description": "Pick up essential phrases for your next adventure."
+      }
+    },
+    "studying": {
+      "title": "In Studying",
+      "students": {
+        "title": "Students",
+        "description": "Master tough subjects like Math, Science, or History with ease."
+      },
+      "parents": {
+        "title": "Parents",
+        "description": "Give your child the extra support they need to excel."
+      },
+      "examTakers": {
+        "title": "High School Exam Takers",
+        "description": "Boost your grades with expert guidance."
+      }
+    },
+    "startSpeaking": "Start Speaking",
+    "boostGrades": "Boost Your Grades"
+  },
+  "whyUs": {
+    "title": "Why Choose Our Platform?",
+    "subtitle": "Discover what makes us different",
+    "quality": {
+      "title": "Expert Tutors",
+      "description": "Learn from experienced and certified tutors worldwide."
+    },
+    "convenience": {
+      "title": "Interactive Learning",
+      "description": "Engage in 1-on-1 video calls, quizzes, and exercises."
+    },
+    "results": {
+      "title": "Global Access",
+      "description": "Access courses from anywhere, anytime, on any device."
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to your account",
+      "email": "Email",
+      "password": "Password",
+      "forgotPassword": "Forgot Password?",
+      "signIn": "Sign In",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign Up"
+    },
+    "register": {
+      "title": "Create Account",
+      "subtitle": "Join MyLearnia today",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "signUp": "Sign Up",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign In"
+    },
+    "forgotPassword": {
+      "title": "Forgot Password",
+      "subtitle": "Enter your email to reset your password",
+      "email": "Email",
+      "sendReset": "Send Reset Link",
+      "backToLogin": "Back to Login"
+    },
+    "resetPassword": {
+      "title": "Reset Password",
+      "subtitle": "Enter your new password",
+      "newPassword": "New Password",
+      "confirmPassword": "Confirm Password",
+      "resetPassword": "Reset Password"
+    }
+  },
+  "profile": {
+    "title": "My Profile",
+    "editProfile": "Edit Profile",
+    "updatePassword": "Update Password",
+    "deleteProfile": "Delete Profile",
+    "personalInfo": "Personal Information",
+    "email": "Email",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phone": "Phone",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "loginPrompt": "Please log in to view your profile",
+    "loggingOut": "Logging out...",
+    "logout": "Logout",
+    "fullName": "Full Name",
+    "location": "Location",
+    "notProvided": "Not provided"
+  },
+  "findMentor": {
+    "title": "Find the Perfect Mentor",
+    "searchPlaceholder": "Search for mentors...",
+    "filterByExpertise": "Filter by expertise",
+    "english": "English",
+    "mathematics": "Mathematics",
+    "science": "Science",
+    "physics": "Physics",
+    "history": "History",
+    "french": "French",
+    "bookSession": "Book a Session"
+  },
+  "becomeMentor": {
+    "title": "Become a Mentor",
+    "subtitle": "Join MyLearnia and help students succeed by sharing your expertise.",
+    "fullName": "Full Name",
+    "email": "Email",
+    "experience": "Teaching Experience (Years)",
+    "bio": "Short Bio",
+    "subjects": "Subjects You Can Teach",
+    "subjectsPlaceholder": "e.g. Math, Science, English",
+    "availability": "Availability",
+    "availabilityPlaceholder": "e.g. Weekends, Evenings",
+    "uploadImage": "Upload Image",
+    "uploadCertificate": "Upload Certificate",
+    "applyNow": "Apply Now"
+  },
+  "about": {
+    "title": "About MyLearnia",
+    "subtitle": "Empowering learners worldwide",
+    "mission": "Our Mission",
+    "missionText": "To provide accessible, high-quality education to learners of all ages and backgrounds through personalized mentoring.",
+    "vision": "Our Vision",
+    "visionText": "A world where everyone has access to quality education and the opportunity to reach their full potential.",
+    "values": "Our Values",
+    "excellence": "Excellence",
+    "excellenceText": "We strive for the highest quality in everything we do",
+    "accessibility": "Accessibility",
+    "accessibilityText": "Education should be available to everyone",
+    "innovation": "Innovation",
+    "innovationText": "We continuously improve our platform and methods"
+  },
+  "support": {
+    "title": "Support Center",
+    "subtitle": "We're here to help",
+    "contact": "Contact Us",
+    "helpCenter": "Help Center",
+    "faq": "Frequently Asked Questions",
+    "email": "Email Support",
+    "phone": "Phone Support",
+    "liveChat": "Live Chat"
+  },
+  "footer": {
+    "description": "Speak & Study Smart, Not Hard!",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "legal": "Legal",
+    "social": "Follow Us",
+    "copyright": "© 2024 MyLearnia. All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "view": "View",
+    "download": "Download",
+    "upload": "Upload",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "bookNow": "Book Now",
+    "contactUs": "Contact Us",
+    "findYourTutor": "Find Your Tutor",
+    "more": "More !"
+  }
+} 

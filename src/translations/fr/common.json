@@ -1,0 +1,354 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "findMentor": "Trouver un Mentor",
+    "becomeMentor": "Devenir Mentor",
+    "plans": "Plans & Tarifs",
+    "about": "À Propos",
+    "support": "Support",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "profile": "Profil",
+    "logout": "Déconnexion"
+  },
+  "hero": {
+    "title": "Parlez & Étudiez",
+    "titleHighlight": "Intelligemment",
+    "titleEnd": ", Pas Difficile !",
+    "subtitle": "Maîtrisez les langues et excellez dans les matières scolaires avec des mentors experts en temps réel, sessions personnalisées 1-à-1.",
+    "getStarted": "Commencer",
+    "register": "S'inscrire"
+  },
+  "services": {
+    "title": "Des Langues aux Matières Scolaires, Nous Vous Couvrons",
+    "subtitle": "Solutions d'apprentissage complètes pour tous les besoins",
+    "languages": {
+      "title": "Langues",
+      "description": "Maîtrisez de nouvelles langues avec des locuteurs natifs et des enseignants certifiés"
+    },
+    "subjects": {
+      "title": "Matières",
+      "description": "Excellez en mathématiques, sciences, littérature et plus avec des tuteurs experts"
+    },
+    "testPrep": {
+      "title": "Préparation aux Examens",
+      "description": "Réussissez vos examens avec une préparation ciblée et de la pratique"
+    }
+  },
+  "benefits": {
+    "title": "Avantages du Tutorat en Ligne",
+    "subtitle": "Découvrez les avantages de l'apprentissage personnalisé en ligne avec nos tuteurs experts.",
+    "expertMentors": {
+      "title": "Mentors Experts",
+      "description": "Apprenez auprès de professionnels certifiés avec des années d'expérience"
+    },
+    "personalizedLearning": {
+      "title": "Apprentissage Personnalisé",
+      "description": "Sessions individuelles adaptées à vos besoins spécifiques et votre style d'apprentissage."
+    },
+    "flexibleSchedule": {
+      "title": "Planification Flexible",
+      "description": "Réservez des sessions à votre convenance, disponibilité 24/7 pour s'adapter à votre emploi du temps."
+    },
+    "affordablePricing": {
+      "title": "Tarifs Abordables",
+      "description": "Tarifs compétitifs avec divers plans pour répondre aux différents budgets et besoins."
+    },
+    "progressTracking": {
+      "title": "Suivi des Progrès",
+      "description": "Surveillez vos progrès d'apprentissage avec des retours détaillés et des évaluations."
+    },
+    "safeEnvironment": {
+      "title": "Environnement Sûr",
+      "description": "Plateforme sécurisée avec des tuteurs vérifiés et un système de paiement protégé."
+    },
+    "readyToStart": {
+      "title": "Prêt à Commencer à Apprendre ?",
+      "description": "Rejoignez des milliers d'étudiants qui ont déjà amélioré leurs compétences avec nos tuteurs experts."
+    }
+  },
+  "teachers": {
+    "title": "Enseignez, Impactez et Gagnez de l'Argent pour Vos Connaissances.",
+    "subtitle": "Votre guidance peut changer des vies, commencez à avoir un impact aujourd'hui.",
+    "viewAll": "Voir Tous les Enseignants",
+    "bookSession": "Réserver une Session",
+    "features": {
+      "oneToOne": "Leçons vidéo en direct individuelles",
+      "flexible": "Planification flexible",
+      "support": "Équipe de support dédiée",
+      "payment": "Système de paiement transparent",
+      "more": "Et Plus ..."
+    },
+    "joinNow": "Rejoindre Maintenant",
+    "learnHow": "Découvrir Comment Ça Marche !"
+  },
+  "steps": {
+    "title": "Étape par Étape vers Vos Objectifs",
+    "subtitle": "Commencez en quelques étapes simples",
+    "step1": "S'inscrire",
+    "step2": "Choisir un Plan",
+    "step3": "Réserver une Session",
+    "step4": "Commencer à Apprendre"
+  },
+  "plans": {
+    "title": "Plans Abordables pour Chaque Étudiant",
+    "subtitle": "Choisissez le plan qui correspond à vos besoins d'apprentissage.",
+    "annually": "Annuellement",
+    "monthly": "Mensuellement",
+    "mostPopular": "Le plus populaire",
+    "starter": {
+      "title": "Débutant",
+      "price": "29€",
+      "period": "/mois",
+      "features": [
+        "5 sessions par mois",
+        "Matières de base",
+        "Support par email"
+      ]
+    },
+    "premium": {
+      "title": "Premium",
+      "price": "59€",
+      "period": "/mois",
+      "features": [
+        "15 sessions par mois",
+        "Toutes les matières",
+        "Support prioritaire",
+        "Matériel d'étude"
+      ]
+    },
+    "pro": {
+      "title": "Pro",
+      "price": "99€",
+      "period": "/mois",
+      "features": [
+        "Sessions illimitées",
+        "Toutes les matières",
+        "Support 24/7",
+        "Matériel d'étude",
+        "Suivi des progrès"
+      ]
+    },
+    "getStarted": "Commencer",
+    "starter": {
+      "title": "Débutant",
+      "cta": "Commencer Maintenant !!"
+    },
+    "professional": {
+      "title": "Professionnel",
+      "cta": "Passer au Niveau Supérieur !!"
+    },
+    "premium": {
+      "title": "Premium",
+      "cta": "Découvrir le Meilleur"
+    },
+    "features": {
+      "oneOnOne": "Sessions en Direct 1-à-1",
+      "tenSessions": "Jusqu'à 10 Sessions/mois",
+      "thirtyMin": "Durée de session limitée (30min)",
+      "prioritySupport": "Support Prioritaire",
+      "customPath": "Parcours d'apprentissage personnalisé",
+      "thirtySessions": "Jusqu'à 30 Sessions/mois",
+      "sixtyMin": "Durée de session limitée (60min)",
+      "allInPro": "Tout dans le plan Pro",
+      "unlimitedSessions": "Sessions Illimitées",
+      "unlimitedDuration": "Durée de Session Illimitée",
+      "recordings": "Enregistrements de Session"
+    }
+  },
+  "beneficiaries": {
+    "title": "Qui Peut Bénéficier de MyLearnia ?",
+    "subtitle": "Notre plateforme sert les apprenants de tous âges et horizons",
+    "speaking": {
+      "title": "En Parlant",
+      "teenagers": {
+        "title": "Adolescents",
+        "description": "Parlez couramment et avec confiance dans votre langue de choix."
+      },
+      "professionals": {
+        "title": "Professionnels",
+        "description": "Apprenez de nouvelles compétences linguistiques pour améliorer les opportunités de carrière."
+      },
+      "travelers": {
+        "title": "Passionnés de Voyage",
+        "description": "Apprenez des phrases essentielles pour votre prochaine aventure."
+      }
+    },
+    "studying": {
+      "title": "En Étudiant",
+      "students": {
+        "title": "Étudiants",
+        "description": "Maîtrisez les matières difficiles comme les Mathématiques, les Sciences ou l'Histoire avec facilité."
+      },
+      "parents": {
+        "title": "Parents",
+        "description": "Donnez à votre enfant le soutien supplémentaire dont il a besoin pour exceller."
+      },
+      "examTakers": {
+        "title": "Candidats aux Examens du Secondaire",
+        "description": "Améliorez vos notes avec l'expertise d'un guide."
+      }
+    },
+    "startSpeaking": "Commencer à Parler",
+    "boostGrades": "Améliorer Vos Notes"
+  },
+  "whyUs": {
+    "title": "Pourquoi Choisir Notre Plateforme ?",
+    "subtitle": "Découvrez ce qui nous rend différents",
+    "quality": {
+      "title": "Tuteurs Experts",
+      "description": "Apprenez auprès de tuteurs expérimentés et certifiés du monde entier."
+    },
+    "convenience": {
+      "title": "Apprentissage Interactif",
+      "description": "Participez à des appels vidéo 1-à-1, des quiz et des exercices."
+    },
+    "results": {
+      "title": "Accès Global",
+      "description": "Accédez aux cours de n'importe où, à tout moment, sur n'importe quel appareil."
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Bon Retour",
+      "subtitle": "Connectez-vous à votre compte",
+      "email": "Email",
+      "password": "Mot de passe",
+      "forgotPassword": "Mot de passe oublié ?",
+      "signIn": "Se Connecter",
+      "noAccount": "Vous n'avez pas de compte ?",
+      "signUp": "S'inscrire"
+    },
+    "register": {
+      "title": "Créer un Compte",
+      "subtitle": "Rejoignez MyLearnia aujourd'hui",
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "signUp": "S'inscrire",
+      "hasAccount": "Vous avez déjà un compte ?",
+      "signIn": "Se Connecter"
+    },
+    "forgotPassword": {
+      "title": "Mot de Passe Oublié",
+      "subtitle": "Entrez votre email pour réinitialiser votre mot de passe",
+      "email": "Email",
+      "sendReset": "Envoyer le lien de réinitialisation",
+      "backToLogin": "Retour à la connexion"
+    },
+    "resetPassword": {
+      "title": "Réinitialiser le Mot de Passe",
+      "subtitle": "Entrez votre nouveau mot de passe",
+      "newPassword": "Nouveau mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "resetPassword": "Réinitialiser le mot de passe"
+    }
+  },
+  "profile": {
+    "title": "Mon Profil",
+    "editProfile": "Modifier le Profil",
+    "updatePassword": "Mettre à jour le mot de passe",
+    "deleteProfile": "Supprimer le Profil",
+    "personalInfo": "Informations Personnelles",
+    "email": "Email",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "phone": "Téléphone",
+    "save": "Sauvegarder",
+    "cancel": "Annuler",
+    "loginPrompt": "Veuillez vous connecter pour voir votre profil",
+    "loggingOut": "Déconnexion...",
+    "logout": "Déconnexion",
+    "fullName": "Nom Complet",
+    "location": "Emplacement",
+    "notProvided": "Non fourni"
+  },
+  "findMentor": {
+    "title": "Trouvez le Mentor Parfait",
+    "searchPlaceholder": "Recherchez des mentors...",
+    "filterByExpertise": "Filtrer par expertise",
+    "english": "Anglais",
+    "mathematics": "Mathématiques",
+    "science": "Sciences",
+    "physics": "Physique",
+    "history": "Histoire",
+    "french": "Français",
+    "bookSession": "Réserver une Session"
+  },
+  "becomeMentor": {
+    "title": "Devenir Mentor",
+    "subtitle": "Rejoignez MyLearnia et aidez les étudiants à réussir en partageant votre expertise.",
+    "fullName": "Nom Complet",
+    "email": "Email",
+    "experience": "Expérience d'enseignement (années)",
+    "bio": "Courte Bio",
+    "subjects": "Matières que vous pouvez enseigner",
+    "subjectsPlaceholder": "ex. Maths, Sciences, Anglais",
+    "availability": "Disponibilité",
+    "availabilityPlaceholder": "ex. Week-ends, Soirées",
+    "uploadImage": "Télécharger une image",
+    "uploadCertificate": "Télécharger un certificat",
+    "applyNow": "Postuler maintenant"
+  },
+  "about": {
+    "title": "À Propos de MyLearnia",
+    "subtitle": "Autonomiser les apprenants du monde entier",
+    "mission": "Notre Mission",
+    "missionText": "Fournir une éducation accessible et de haute qualité aux apprenants de tous âges et horizons grâce au mentorat personnalisé.",
+    "vision": "Notre Vision",
+    "visionText": "Un monde où chacun a accès à une éducation de qualité et l'opportunité d'atteindre son plein potentiel.",
+    "values": "Nos Valeurs",
+    "excellence": "Excellence",
+    "excellenceText": "Nous visons la plus haute qualité dans tout ce que nous faisons",
+    "accessibility": "Accessibilité",
+    "accessibilityText": "L'éducation devrait être accessible à tous",
+    "innovation": "Innovation",
+    "innovationText": "Nous améliorons continuellement notre plateforme et nos méthodes"
+  },
+  "support": {
+    "title": "Centre de Support",
+    "subtitle": "Nous sommes là pour vous aider",
+    "contact": "Nous Contacter",
+    "helpCenter": "Centre d'Aide",
+    "faq": "Questions Fréquemment Posées",
+    "email": "Support par Email",
+    "phone": "Support Téléphonique",
+    "liveChat": "Chat en Direct"
+  },
+  "footer": {
+    "description": "Parlez & Étudiez Intelligemment, Pas Difficile !",
+    "quickLinks": "Liens Rapides",
+    "support": "Support",
+    "legal": "Mentions Légales",
+    "social": "Suivez-nous",
+    "copyright": "© 2024 MyLearnia. Tous droits réservés."
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "success": "Succès !",
+    "save": "Sauvegarder",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "close": "Fermer",
+    "submit": "Soumettre",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "view": "Voir",
+    "download": "Télécharger",
+    "upload": "Téléverser",
+    "learnMore": "En Savoir Plus",
+    "getStarted": "Commencer",
+    "bookNow": "Réserver Maintenant",
+    "contactUs": "Nous Contacter",
+    "findYourTutor": "Trouver Votre Tuteur",
+    "more": "Plus !"
+  }
+} 
